@@ -1,0 +1,15 @@
+E:\Repos\Exercicios trello\ContaBancaria\Encapsulamento\bin\Debug\net6.0\Encapsulamento.exe
+E:\Repos\Exercicios trello\ContaBancaria\Encapsulamento\bin\Debug\net6.0\Encapsulamento.deps.json
+E:\Repos\Exercicios trello\ContaBancaria\Encapsulamento\bin\Debug\net6.0\Encapsulamento.runtimeconfig.json
+E:\Repos\Exercicios trello\ContaBancaria\Encapsulamento\bin\Debug\net6.0\Encapsulamento.dll
+E:\Repos\Exercicios trello\ContaBancaria\Encapsulamento\bin\Debug\net6.0\Encapsulamento.pdb
+E:\Repos\Exercicios trello\ContaBancaria\Encapsulamento\obj\Debug\net6.0\Encapsulamento.csproj.AssemblyReference.cache
+E:\Repos\Exercicios trello\ContaBancaria\Encapsulamento\obj\Debug\net6.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Exercicios trello\ContaBancaria\Encapsulamento\obj\Debug\net6.0\Encapsulamento.AssemblyInfoInputs.cache
+E:\Repos\Exercicios trello\ContaBancaria\Encapsulamento\obj\Debug\net6.0\Encapsulamento.AssemblyInfo.cs
+E:\Repos\Exercicios trello\ContaBancaria\Encapsulamento\obj\Debug\net6.0\Encapsulamento.csproj.CoreCompileInputs.cache
+E:\Repos\Exercicios trello\ContaBancaria\Encapsulamento\obj\Debug\net6.0\Encapsulamento.dll
+E:\Repos\Exercicios trello\ContaBancaria\Encapsulamento\obj\Debug\net6.0\refint\Encapsulamento.dll
+E:\Repos\Exercicios trello\ContaBancaria\Encapsulamento\obj\Debug\net6.0\Encapsulamento.pdb
+E:\Repos\Exercicios trello\ContaBancaria\Encapsulamento\obj\Debug\net6.0\Encapsulamento.genruntimeconfig.cache
+E:\Repos\Exercicios trello\ContaBancaria\Encapsulamento\obj\Debug\net6.0\ref\Encapsulamento.dll
